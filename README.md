@@ -231,7 +231,7 @@ host_tick_rate                             2638538736                       # Si
 
 
 Πηγές:
-	http://www.gem5.org/Main_Page
-	https://nitish2112.github.io/post/gem5-minor-cpu/
-	http://www.m5sim.org/SimpleCPU
-	https://raw.githubusercontent.com/arm-university/arm-gem5-rsk/master/gem5_rsk.pdf
+	http://www.gem5.org/Main_Page
+	https://nitish2112.github.io/post/gem5-minor-cpu/
+	http://www.m5sim.org/SimpleCPU
+	https://raw.githubusercontent.com/arm-university/arm-gem5-rsk/master/gem5_rsk.pdf
