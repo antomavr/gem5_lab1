@@ -240,3 +240,6 @@ host_tick_rate                             2638538736                       # Si
 	
 	
 	./build/ARM/gem5.opt -d my_program_result configs/example/se.py --cpu-type=MinorCPU --caches -c code/myprog_arm
+	
+	./build/ARM/gem5.opt -d my_program_result_2 configs/example/se.py --cpu-type=TimingSimpleCPU --caches -c code/myprog_arm --cpu-clock=2GHz
+
