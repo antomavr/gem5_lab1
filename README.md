@@ -235,3 +235,8 @@ host_tick_rate                             2638538736                       # Si
 	https://nitish2112.github.io/post/gem5-minor-cpu/
 	http://www.m5sim.org/SimpleCPU
 	https://raw.githubusercontent.com/arm-university/arm-gem5-rsk/master/gem5_rsk.pdf
+	
+	
+	
+	
+	./build/ARM/gem5.opt -d my_program_result configs/example/se.py --cpu-type=MinorCPU --caches -c code/myprog_arm
