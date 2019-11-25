@@ -1,0 +1,5 @@
+./build/ARM/gem5.opt -d my_program_result configs/example/se.py --cpu-type=MinorCPU --caches -c my_program
+./build/ARM/gem5.opt -d my_program_result configs/example/se.py --cpu-type=TimingSimpleCPU --caches -c my_program
+
+./build/ARM/gem5.opt -d my_program_result configs/example/se.py --cpu-type=MinorCPU --caches -c my_program --cpu-clock=2GHz
+./build/ARM/gem5.opt -d my_program_result configs/example/se.py --cpu-type=TimingSimpleCPU --caches -c my_program --cpu-clock=2GHz
